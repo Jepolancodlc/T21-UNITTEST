@@ -1,0 +1,10 @@
+C:\Users\jpola\source\repos\T21–UnitTest\bin\Debug\T21–UnitTest.exe.config
+C:\Users\jpola\source\repos\T21–UnitTest\bin\Debug\T21–UnitTest.exe
+C:\Users\jpola\source\repos\T21–UnitTest\bin\Debug\T21–UnitTest.pdb
+C:\Users\jpola\source\repos\T21–UnitTest\obj\Debug\T21–UnitTest.csprojAssemblyReference.cache
+C:\Users\jpola\source\repos\T21–UnitTest\obj\Debug\T21_UnitTest.Properties.Resources.resources
+C:\Users\jpola\source\repos\T21–UnitTest\obj\Debug\T21–UnitTest.csproj.GenerateResource.cache
+C:\Users\jpola\source\repos\T21–UnitTest\obj\Debug\T21–UnitTest.csproj.CoreCompileInputs.cache
+C:\Users\jpola\source\repos\T21–UnitTest\obj\Debug\T21–UnitTest.exe
+C:\Users\jpola\source\repos\T21–UnitTest\obj\Debug\T21–UnitTest.pdb
+C:\Users\jpola\source\repos\T21–UnitTest\obj\Debug\T21_UnitTest.Form1.resources
